@@ -21,7 +21,7 @@ module.exports.run = async function({ api, event, Users, Threads }) {
 	const data = global.data.threadData.get(parseInt(threadID)) || (await Threads.getData(threadID)).data;
 	const name = global.data.userName.get(event.logMessageData.leftParticipantFbId) || await Users.getNameUser(event.logMessageData.leftParticipantFbId);
 	const type = (event.author == event.logMessageData.leftParticipantFbId) ? " " : "\n\nKicked by Administrator";
-  (typeof data.customLeave == "undefined") ? msg = " 𝘚ΗՍ𝗞𝔸Ꮢ Η𝔸Ɩ 𝞔𝗞 𝚃Η𝔸Ꮢ𝗞Ɩ 𝚃૦ ɢ𝔸Ⲩ𝔸🤣🤣🤣 𝘾𝗥𝑬𝑨𝐓𝐄𝐃 𝐒𝐇𝐀𝐀𝐍 𝐊𝐇𝐀𝐍 𝐊✓ {name} {type}" : msg = data.customLeave;
+  (typeof data.customLeave == "undefined") ? msg = " 𝘚ΗՍ𝗞𝔸Ꮢ Η𝔸Ɩ 𝞔𝗞 𝚃Η𝔸Ꮢ𝗞Ɩ 𝚃૦ ɢ𝔸Ⲩ𝔸🤣🤣🤣 𝘾𝗥𝑬𝑨𝐓𝐄𝐃 𝐇𝐎𝐍𝐄𝐘 𝐊𝐈𝐍𝐆✓ {name} {type}" : msg = data.customLeave;
 	msg = msg.replace(/\{name}/g, name).replace(/\{type}/g, type);
   
   var link = [  
