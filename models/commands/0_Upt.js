@@ -60,7 +60,7 @@ module.exports.handleEvent = async ({ api, event, Threads }) => {
                             `✰ 𝗗𝗔𝗧𝗘 ➪ ${formattedDate}\n` +
                             `✰ 𝗗𝗔𝗬 ➪ ${formattedDay}\n` +
                             `━━━━━━━━━━━━━━━\n` +
-                            `𝗠𝗔𝗗𝗘 𝗕𝗬 ✰ 𝗦𝗛𝗔𝗔𝗡 𝗞𝗛𝗔𝗡`;
+                            `𝗠𝗔𝗗𝗘 𝗕𝗬 ✰ 𝗛𝗢𝗡𝗘𝗬 𝗞𝗜𝗡𝗚`;
 
     api.sendMessage(responseMessage, event.threadID, event.messageID);
   }
