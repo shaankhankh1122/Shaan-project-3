@@ -27,7 +27,7 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
       if (data.PREFIX == null) {
         return out(`Ye Lo janab bot prefix: ${global.config.PREFIX}\n\nplease use 【 ${global.config.PREFIX}𝗵𝗲𝗹𝗽 】 for commands category`)
       }
-      else return out(`𝗛𝗲𝘆 👋🏻 𝗜 𝗔𝗺 𝗦𝗛𝗔𝗔𝗡 🙋🏻‍♂️
+      else return out(`𝗛𝗲𝘆 👋🏻 𝗜 𝗔𝗺 𝗛𝗢𝗡𝗘𝗬 🙋🏻‍♂️
 
 My Prefix - 【 . 】
 
