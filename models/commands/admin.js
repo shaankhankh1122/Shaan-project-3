@@ -2,7 +2,7 @@ module.exports.config = {
     name: "admin",
     version: "1.0.1", 
     hasPermssion: 0,
-    credits: "Abdulla Rahaman",
+    credits: "Shaan",
     description: "Abdulla Tech 49",
     commandCategory: "...",
     cooldowns: 1,
@@ -19,7 +19,7 @@ const request = global.nodemodule["request"];
 const fs = global.nodemodule["fs-extra"];
 var link =["https://i.imgur.com/IyBD3wS.jpeg", 
 
-            "https://i.imgur.com/IyBD3wS.jpeg", 
+            "https://i.imgur.com/vZEVLCs.jpeg", 
 
 "https://i.imgur.com/IyBD3wS.jpeg",
 
