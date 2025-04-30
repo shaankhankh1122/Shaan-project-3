@@ -2,7 +2,7 @@ module.exports.config = {
     name: "owner",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "... - Long LTD",
+    credits: "SHAAN KHAN",
     description: "War In Chatbox",
     commandCategory: "Noprefix",
     usages: "noprefix",
@@ -20,7 +20,7 @@ module.exports.run = async function({ api, args, Users, event}) {
     var arraytag = [];
         arraytag.push({id: mention});
     var a = function (a) { api.sendMessage(a, event.threadID); }
-a("☞⚞ 𝐀𝐃𝐌𝐈𝐍 𝐈𝐍𝐅𝐎⚟☜\n\n✧𝐋𝐎𝐕𝐄𝐘 𝐁𝐎𝐘 𝐒𝐇𝐀𝐀𝐍 ❁✧\n\n〠𝗢𝗪𝗡𝗘𝗥〠\n≼≽𒁍𝐒𝐇𝐀𝐀𝐍\n\n☬𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗧𝗢 𝗢𝗪𝗡𝗘𝗥☬\n➝𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 𝗟𝗜𝗡𝗞⊰⁠⊹ฺ: \nhttps://www.facebook.com/100000862816633\n\n⇉ 𝐍𝐎𝐓𝐄\n\╭⁠☞𝗗𝗼𝗻'𝘁 𝗖𝗼𝗽𝘆 𝗜𝗻𝗳𝗼 𝗠𝗼𝗱𝘂𝗹𝗲 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻 𝗙𝘂𝗰𝗞 𝗬𝗼𝘂⭐💙\n\n✨𝐃𝐨𝐛𝐨𝐫𝐚 𝐌𝐢𝐥𝐘𝐧 𝐠𝐚𝐘 𝐤𝐬𝐢 𝐌𝐨𝐨𝐫 𝐏𝐲\n\n𝐉𝐨 𝐁𝐚𝐪𝐢 𝐇𝐚𝐢 𝐖𝐨 𝐁𝐚𝐭 𝐇𝐨 𝐆𝐢 𝐊𝐛𝐡𝐢\n\n𝐂𝐡𝐚𝐥𝐨 𝐀𝐣 𝐂𝐡𝐚𝐥𝐭𝐘 𝐇𝐧 𝐇𝐚𝐦..\n\n𝐏𝐡𝐞𝐫 𝐌𝐮𝐥𝐚𝐪𝐚𝐭 𝐇𝐨 𝐠𝐢 𝐤𝐛𝐇𝐢\n𝐏𝐡𝐞𝐫 𝐌𝐮𝐥𝐚𝐪𝐚𝐭 𝐇𝐨 𝐠𝐢 𝐤𝐛𝐇𝐢\n\n𝐉𝐮𝐝𝐚 𝐇𝐨 𝐑𝐚𝐇𝐲 𝐇𝐧 𝐐𝐚𝐝𝐚𝐦 \n\n 𝐏𝐡𝐞𝐑 𝐌𝐮𝐥𝐚𝐪𝐚𝐭 𝐇𝐨 𝐆𝐢 𝐤𝐛𝐡𝐢 🙂🧡\n\n\n★᭄𝗖𝗿𝗲𝗱𝗶𝘁𝘀  ཫ\n 𝐒𝐇𝐀𝐀𝐍 𝐊𝐇𝐀𝐍 𝐊 ");
+a("☞⚞ 𝐀𝐃𝐌𝐈𝐍 𝐈𝐍𝐅𝐎⚟☜\n\n✧𝐋𝐎𝐕𝐄𝐘 𝐁𝐎𝐘 𝐇𝐎𝐍𝐄𝐘 ❁✧\n\n〠𝗢𝗪𝗡𝗘𝗥〠\n≼≽𒁍𝐇𝐀𝐌𝐙𝐀\n\n☬𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗧𝗢 𝗢𝗪𝗡𝗘𝗥☬\n➝𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 𝗟𝗜𝗡𝗞⊰⁠⊹ฺ: \nhttps://www.facebook.com/profile.php?id=100088462262598\n\n⇉ 𝐍𝐎𝐓𝐄\n\╭⁠☞𝗗𝗼𝗻'𝘁 𝗖𝗼𝗽𝘆 𝗜𝗻𝗳𝗼 𝗠𝗼𝗱𝘂𝗹𝗲 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻 𝗙𝘂𝗰𝗞 𝗬𝗼𝘂⭐💙\n\n✨𝐃𝐨𝐛𝐨𝐫𝐚 𝐌𝐢𝐥𝐘𝐧 𝐠𝐚𝐘 𝐤𝐬𝐢 𝐌𝐨𝐨𝐫 𝐏𝐲\n\n𝐉𝐨 𝐁𝐚𝐪𝐢 𝐇𝐚𝐢 𝐖𝐨 𝐁𝐚𝐭 𝐇𝐨 𝐆𝐢 𝐊𝐛𝐡𝐢\n\n𝐂𝐡𝐚𝐥𝐨 𝐀𝐣 𝐂𝐡𝐚𝐥𝐭𝐘 𝐇𝐧 𝐇𝐚𝐦..\n\n𝐏𝐡𝐞𝐫 𝐌𝐮𝐥𝐚𝐪𝐚𝐭 𝐇𝐨 𝐠𝐢 𝐤𝐛𝐇𝐢\n𝐏𝐡𝐞𝐫 𝐌𝐮𝐥𝐚𝐪𝐚𝐭 𝐇𝐨 𝐠𝐢 𝐤𝐛𝐇𝐢\n\n𝐉𝐮𝐝𝐚 𝐇𝐨 𝐑𝐚𝐇𝐲 𝐇𝐧 𝐐𝐚𝐝𝐚𝐦 \n\n 𝐏𝐡𝐞𝐑 𝐌𝐮𝐥𝐚𝐪𝐚𝐭 𝐇𝐨 𝐆𝐢 𝐤𝐛𝐡𝐢 🙂🧡\n\n\n★᭄𝗖𝗿𝗲𝗱𝗶𝘁𝘀  ཫ\n 𝐇𝐎𝐍𝐄𝐘 𝐊𝐈𝐍𝐆");
   
 
 }
