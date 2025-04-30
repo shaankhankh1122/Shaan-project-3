@@ -21,11 +21,11 @@ react.includes("admin")) {
                ✦𝐇𝐎𝐍𝐄𝐘 𝐊𝐈𝐍𝐆✦
 
 ☞𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞:
-https://www.facebook.com/𝚜𝚑𝚊𝚊𝚗 uid👉✨Honey King: 100088462262598✨
+https://www.facebook.com/Hamza uid👉✨Honey King: 100088462262598✨
 
 
 
-★᭄𝗖𝗿𝗲𝗱𝗶𝘁'𝘀 :  ✦𝐇𝐀𝐌𝐙𝐀 𝐀𝐋𝐈 𝐊✦`,attachment: fs.createReadStream(__dirname + `/noprefix/1711811285337.jpg`)
+★᭄𝗖𝗿𝗲𝗱𝗶𝘁'𝘀 :  ✦𝐇𝐀𝐌𝐙𝐀 𝐀𝐋𝐈 𝐊✦`,attachment: fs.createReadStream(__dirname + `/noprefix/IMG-20250423-WA0005.jpg`)
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("💔", event.messageID, (err) => {}, true)
